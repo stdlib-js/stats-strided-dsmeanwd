@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`77f639e`](https://github.com/stdlib-js/stdlib/commit/77f639ef230a889fcc6c12c5882773729d986fff) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`47c354c`](https://github.com/stdlib-js/stdlib/commit/47c354c5a55834a967217b7f710c6186dfac0672) - **feat:** add `stats/strided/dsmeanwd` _(by Aayush Khanna)_
 
 </details>
