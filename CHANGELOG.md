@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-12)
+## Unreleased (2026-01-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`4132ebf`](https://github.com/stdlib-js/stdlib/commit/4132ebfa530c08ce5c00e0545333c1f8042f5d2d) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`3e8a453`](https://github.com/stdlib-js/stdlib/commit/3e8a4533ddede9bc1916fa5b2f339380c091c0a4) - **refactor:** update paths _(by Aayush Khanna)_
@@ -38,9 +39,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
 
