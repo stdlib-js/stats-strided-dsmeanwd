@@ -63,7 +63,7 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
-import dsmeanwd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsmeanwd@esm/index.mjs';
+import dsmeanwd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsmeanwd@v0.1.1-esm/index.mjs';
 ```
 
 #### dsmeanwd( N, x, strideX )
@@ -166,7 +166,7 @@ var v = dsmeanwd.ndarray( 4, x, 2, 1 );
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dsmeanwd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsmeanwd@esm/index.mjs';
+import dsmeanwd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dsmeanwd@v0.1.1-esm/index.mjs';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float32'
